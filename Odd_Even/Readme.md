@@ -1,0 +1,1 @@
+This is simple calculator to determine the odd or even number when the user input a pair of numbers.

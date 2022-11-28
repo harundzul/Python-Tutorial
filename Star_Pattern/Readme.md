@@ -1,0 +1,1 @@
+This is a tutorial on how to create a star pattern by entering a number as input
